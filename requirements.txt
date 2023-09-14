@@ -1,0 +1,8 @@
+numpy==1.21.6
+pandas==1.3.5
+scipy
+streamlit==1.14.1
+mediapipe==0.10.0
+opencv-python==4.6.0.66
+streamlit-webrtc==0.45.0
+fastdtw==0.3.4
