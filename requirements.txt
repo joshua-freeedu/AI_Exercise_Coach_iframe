@@ -6,3 +6,4 @@ mediapipe==0.10.0
 opencv-python==4.6.0.66
 streamlit-webrtc==0.45.0
 fastdtw==0.3.4
+opencv-python-headless
